@@ -1,4 +1,4 @@
-
+//Check wheather the no.is even or odd by taking input from user
 import java.util.Scanner;
 
 public class Task4 {
