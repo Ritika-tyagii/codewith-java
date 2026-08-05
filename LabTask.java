@@ -1,6 +1,6 @@
 public class LabTask{
 
         public static void main(String[] args) {
-        System.out.println("Lask ");
+        System.out.println("Task ");
     }
 }
